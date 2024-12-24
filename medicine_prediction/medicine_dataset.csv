@@ -1,0 +1,1001 @@
+medicine_available,medicine_stock,location,hospital_name,medicines_sold,medicine_supplied,output
+0,1,0,2,214,369,Available
+1,2,0,2,246,411,Available
+0,0,0,2,253,367,Available
+0,0,1,1,147,238,Not Available
+0,0,0,0,207,444,Available
+1,0,1,0,151,350,Available
+0,0,0,1,195,310,Available
+0,0,2,1,169,246,Available
+0,0,1,1,282,262,Available
+1,1,2,1,201,424,Available
+0,2,1,2,174,268,Available
+0,0,2,0,260,498,Available
+0,1,0,2,289,489,Available
+0,1,0,0,250,495,Available
+1,2,0,0,242,402,Available
+0,0,1,1,254,260,Available
+1,2,2,2,291,360,Available
+1,0,0,1,278,215,Available
+1,1,2,2,280,293,Available
+0,1,2,0,181,337,Available
+1,1,0,1,191,237,Available
+0,1,0,1,278,326,Available
+1,2,2,0,274,474,Available
+1,0,0,0,103,363,Not Available
+1,0,0,0,234,276,Available
+1,2,0,1,208,373,Available
+1,0,1,2,262,290,Available
+1,1,2,1,147,437,Not Available
+1,0,2,2,172,463,Available
+1,1,1,1,171,378,Available
+0,2,2,1,215,408,Available
+0,0,0,0,272,272,Available
+1,2,2,2,180,306,Available
+1,0,0,1,180,494,Available
+1,1,1,1,212,483,Available
+0,2,0,0,195,381,Available
+1,0,2,0,171,236,Available
+0,1,2,2,246,336,Available
+0,2,2,1,162,255,Available
+0,2,1,2,137,386,Not Available
+0,0,1,1,166,457,Available
+0,0,2,2,286,257,Available
+1,0,0,0,168,322,Available
+1,1,1,1,112,387,Not Available
+1,0,2,2,274,429,Available
+1,2,2,0,288,367,Available
+1,2,1,0,130,313,Not Available
+0,0,1,2,213,451,Available
+1,0,1,1,121,306,Not Available
+1,2,0,1,192,236,Available
+0,1,0,0,270,291,Available
+1,0,2,1,166,217,Available
+0,0,1,1,153,262,Available
+1,2,0,1,237,349,Available
+0,0,1,0,141,338,Not Available
+1,1,2,2,163,385,Available
+1,2,0,1,225,384,Available
+0,0,0,0,120,404,Not Available
+0,2,0,0,293,459,Available
+0,0,2,2,268,413,Available
+0,0,1,1,251,455,Available
+0,0,0,1,134,334,Not Available
+0,1,2,2,283,260,Available
+0,1,1,2,129,287,Not Available
+0,2,2,0,156,406,Available
+1,0,1,0,146,328,Not Available
+1,0,2,2,262,202,Available
+0,1,1,1,118,441,Not Available
+1,0,0,0,213,320,Available
+1,1,1,0,107,301,Not Available
+1,0,2,1,125,237,Not Available
+1,2,2,0,212,332,Available
+0,0,1,1,170,401,Available
+1,0,0,1,129,220,Not Available
+0,1,0,1,234,441,Available
+1,0,1,2,166,308,Available
+1,0,1,2,164,283,Available
+1,1,2,2,135,282,Not Available
+0,2,0,1,124,490,Not Available
+1,2,1,1,136,268,Not Available
+0,1,0,2,100,328,Not Available
+1,1,1,0,242,395,Available
+0,1,1,1,136,339,Not Available
+1,1,0,0,240,482,Available
+0,1,1,0,235,433,Available
+0,2,1,1,232,222,Available
+1,2,2,1,287,352,Available
+0,1,1,0,227,476,Available
+1,0,1,0,300,260,Available
+1,1,1,2,226,251,Available
+1,0,2,2,100,352,Not Available
+1,1,0,1,263,436,Available
+1,1,2,2,134,231,Not Available
+1,2,2,2,293,254,Available
+1,0,0,2,290,235,Available
+1,0,2,2,203,309,Available
+1,2,0,0,122,376,Not Available
+1,2,2,1,108,494,Not Available
+1,2,0,2,133,296,Not Available
+0,2,1,0,273,412,Available
+0,0,2,0,227,336,Available
+1,0,2,0,103,205,Not Available
+1,1,2,2,257,308,Available
+1,1,2,2,201,234,Available
+1,2,1,1,174,238,Available
+1,2,2,2,198,349,Available
+1,2,1,2,171,317,Available
+1,1,1,0,102,460,Not Available
+1,1,1,1,241,286,Available
+0,1,1,2,287,275,Available
+1,1,0,2,272,413,Available
+0,1,0,0,133,484,Not Available
+1,1,2,0,144,438,Not Available
+1,1,0,2,160,364,Available
+0,2,0,1,182,286,Available
+1,2,2,1,222,340,Available
+0,2,2,0,201,359,Available
+1,2,2,0,115,245,Not Available
+1,1,0,2,165,311,Available
+0,0,0,0,267,244,Available
+1,1,2,2,244,446,Available
+0,0,1,1,218,303,Available
+1,2,2,1,261,284,Available
+0,1,1,2,223,333,Available
+0,2,1,0,243,307,Available
+1,1,2,1,201,217,Available
+1,2,2,0,287,293,Available
+0,0,2,1,165,349,Available
+1,0,0,2,293,445,Available
+1,0,1,2,112,488,Not Available
+1,1,0,2,283,408,Available
+0,0,0,1,210,325,Available
+0,1,2,0,258,434,Available
+0,0,0,0,133,321,Not Available
+0,0,2,0,138,337,Not Available
+0,1,1,1,294,314,Available
+0,1,2,1,235,361,Available
+0,0,0,1,219,400,Available
+0,1,0,1,225,433,Available
+0,0,2,1,154,227,Available
+1,1,2,0,126,210,Not Available
+0,2,0,1,217,405,Available
+1,2,1,1,152,366,Available
+1,2,1,0,138,446,Not Available
+1,2,2,1,164,246,Available
+0,2,1,0,244,445,Available
+0,0,0,0,257,326,Available
+0,2,2,2,280,346,Available
+0,2,0,2,112,317,Not Available
+1,2,0,2,120,351,Not Available
+0,2,1,2,246,271,Available
+0,1,2,1,152,336,Available
+0,0,2,2,118,374,Not Available
+0,2,1,0,156,488,Available
+0,2,0,1,124,218,Not Available
+1,2,0,2,130,394,Not Available
+0,0,0,0,180,374,Available
+1,1,0,1,282,340,Available
+0,0,2,1,122,445,Not Available
+1,1,2,2,131,292,Not Available
+0,2,1,1,289,438,Available
+0,2,1,0,173,404,Available
+1,0,2,1,109,247,Not Available
+1,0,2,0,299,444,Available
+1,1,0,1,153,494,Available
+0,1,0,2,151,327,Available
+1,0,1,0,247,481,Available
+0,1,2,1,259,216,Available
+0,0,1,1,213,270,Available
+1,1,2,1,113,468,Not Available
+1,0,0,0,277,481,Available
+0,0,1,0,255,206,Available
+0,0,1,0,209,302,Available
+1,1,2,2,152,392,Available
+1,1,0,2,251,440,Available
+1,1,1,0,178,261,Available
+0,0,0,1,121,216,Not Available
+0,1,1,2,129,370,Not Available
+0,1,0,0,290,224,Available
+0,0,2,1,103,450,Not Available
+0,2,1,2,158,452,Available
+0,0,1,1,107,406,Not Available
+1,1,0,1,111,228,Not Available
+0,0,0,1,218,316,Available
+0,2,1,1,258,481,Available
+0,0,2,2,133,343,Not Available
+1,1,0,2,181,224,Available
+0,2,0,2,197,355,Available
+0,1,0,0,226,272,Available
+1,2,1,2,174,319,Available
+0,2,1,1,204,292,Available
+0,0,1,2,148,285,Not Available
+0,0,1,1,178,317,Available
+0,1,2,0,284,432,Available
+0,0,2,1,192,398,Available
+1,0,1,1,253,405,Available
+1,2,2,1,117,346,Not Available
+1,0,0,0,195,470,Available
+0,2,0,2,137,338,Not Available
+0,2,0,2,186,380,Available
+0,2,1,0,187,229,Available
+1,1,0,1,149,256,Not Available
+0,1,2,2,107,431,Not Available
+0,1,1,0,268,345,Available
+1,2,2,2,233,247,Available
+0,1,0,0,168,393,Available
+1,1,0,1,271,423,Available
+1,0,0,2,220,335,Available
+1,1,1,0,163,221,Available
+0,1,2,2,256,205,Available
+0,2,1,2,255,403,Available
+0,2,1,2,238,438,Available
+0,2,0,2,220,384,Available
+0,2,1,0,164,491,Available
+0,2,1,1,206,419,Available
+0,2,0,0,246,315,Available
+1,1,1,0,236,248,Available
+0,2,0,0,254,372,Available
+1,2,0,1,261,281,Available
+0,0,0,2,271,244,Available
+0,1,0,2,295,219,Available
+0,1,1,2,199,420,Available
+1,1,0,1,181,322,Available
+1,2,0,2,242,433,Available
+1,2,1,1,150,420,Not Available
+1,2,1,2,240,202,Available
+0,0,2,2,182,381,Available
+1,2,1,0,276,405,Available
+0,0,1,1,297,239,Available
+0,1,2,0,211,258,Available
+1,2,1,0,155,261,Available
+1,0,1,0,278,331,Available
+1,0,1,1,264,259,Available
+1,2,1,1,244,321,Available
+1,1,2,2,285,306,Available
+1,1,1,0,256,295,Available
+1,1,1,2,260,434,Available
+1,0,2,0,159,261,Available
+0,0,0,1,219,455,Available
+1,0,2,1,282,248,Available
+1,0,0,1,237,358,Available
+0,1,2,0,274,323,Available
+1,2,2,1,122,406,Not Available
+0,0,1,0,248,247,Available
+0,0,0,2,112,335,Not Available
+1,1,1,0,200,400,Available
+0,2,0,2,260,449,Available
+0,2,2,0,123,494,Not Available
+0,1,2,2,207,408,Available
+0,1,0,1,110,410,Not Available
+1,2,1,2,116,391,Not Available
+0,0,1,1,295,243,Available
+1,2,1,1,274,228,Available
+0,1,1,2,124,258,Not Available
+0,0,2,0,193,270,Available
+0,0,2,0,300,291,Available
+0,1,2,0,120,464,Not Available
+1,1,2,0,183,419,Available
+1,1,2,0,239,414,Available
+0,2,1,1,136,476,Not Available
+0,2,1,0,141,263,Not Available
+1,0,1,1,244,491,Available
+0,1,1,1,200,444,Available
+0,0,2,1,147,261,Not Available
+0,0,2,2,202,369,Available
+1,0,2,2,127,468,Not Available
+1,0,0,1,140,466,Not Available
+1,1,1,2,198,253,Available
+0,0,1,0,146,215,Not Available
+0,1,2,0,245,207,Available
+1,1,1,1,204,303,Available
+1,2,1,0,223,258,Available
+1,1,2,1,298,239,Available
+1,2,0,1,112,436,Not Available
+0,1,0,0,240,293,Available
+1,1,0,2,199,421,Available
+0,1,2,0,130,403,Not Available
+1,2,1,0,229,337,Available
+0,2,2,1,115,499,Not Available
+1,0,2,1,236,406,Available
+1,2,1,1,172,280,Available
+1,2,0,1,265,417,Available
+1,2,0,2,153,201,Available
+0,2,2,2,283,377,Available
+1,0,0,2,199,478,Available
+0,2,2,1,208,345,Available
+0,1,2,1,186,423,Available
+0,1,1,1,272,261,Available
+0,2,1,2,261,493,Available
+1,2,1,1,236,438,Available
+0,1,2,0,107,394,Not Available
+0,1,1,0,106,365,Not Available
+0,0,0,1,135,421,Not Available
+1,1,0,0,117,260,Not Available
+1,1,2,0,102,328,Not Available
+1,2,2,2,127,372,Not Available
+1,1,1,1,169,355,Available
+0,0,2,1,271,309,Available
+0,1,2,2,248,468,Available
+1,2,0,0,127,477,Not Available
+0,2,0,0,153,273,Available
+0,1,1,1,281,406,Available
+0,2,2,0,164,478,Available
+1,0,2,2,199,403,Available
+1,0,0,2,120,360,Not Available
+0,1,2,1,112,227,Not Available
+1,1,0,2,156,456,Available
+1,1,1,2,148,364,Not Available
+1,2,0,1,217,262,Available
+1,0,2,2,153,221,Available
+1,0,1,2,237,269,Available
+0,2,0,2,152,295,Available
+1,0,0,0,143,362,Not Available
+0,1,1,1,146,278,Not Available
+0,1,1,1,152,204,Available
+1,1,0,1,173,319,Available
+0,0,2,0,145,377,Not Available
+0,1,0,0,112,375,Not Available
+0,2,1,1,264,416,Available
+1,2,0,0,201,255,Available
+1,0,1,1,123,386,Not Available
+0,2,1,0,101,431,Not Available
+1,2,2,2,180,454,Available
+1,0,1,2,199,303,Available
+1,1,1,1,241,276,Available
+1,1,2,0,237,429,Available
+0,1,1,0,262,457,Available
+0,0,2,2,252,463,Available
+1,2,2,2,230,381,Available
+1,1,1,0,210,455,Available
+0,1,1,0,201,237,Available
+0,0,0,0,116,375,Not Available
+1,1,2,0,111,226,Not Available
+0,0,0,0,281,475,Available
+1,2,1,0,215,339,Available
+1,0,0,1,123,498,Not Available
+0,0,2,0,128,486,Not Available
+0,0,0,2,270,290,Available
+1,0,2,1,252,260,Available
+1,2,1,0,221,362,Available
+0,2,1,2,287,342,Available
+1,1,2,1,189,452,Available
+0,2,1,2,164,468,Available
+1,2,1,0,183,490,Available
+0,1,1,0,218,386,Available
+0,2,1,0,255,490,Available
+0,0,2,0,115,285,Not Available
+1,0,0,1,274,365,Available
+1,1,0,1,203,313,Available
+0,1,1,2,191,382,Available
+1,1,0,0,285,406,Available
+0,0,0,2,126,455,Not Available
+0,2,1,1,280,434,Available
+1,0,1,0,269,202,Available
+1,1,0,0,286,407,Available
+0,2,2,1,274,396,Available
+1,2,1,1,261,324,Available
+1,0,2,1,264,337,Available
+0,1,0,1,233,224,Available
+0,0,1,1,234,267,Available
+1,2,2,0,252,260,Available
+0,0,1,1,132,228,Not Available
+0,0,0,0,154,218,Available
+1,1,2,0,285,370,Available
+0,1,0,1,106,273,Not Available
+0,2,0,1,156,260,Available
+1,0,1,0,225,352,Available
+1,0,2,1,111,475,Not Available
+0,0,0,1,115,247,Not Available
+0,2,0,1,142,410,Not Available
+1,2,2,2,216,338,Available
+1,1,0,0,234,309,Available
+1,1,0,2,210,382,Available
+1,1,2,1,150,227,Not Available
+0,0,2,2,300,396,Available
+1,0,2,1,259,390,Available
+1,1,2,2,174,250,Available
+0,0,1,1,107,348,Not Available
+1,1,2,2,299,467,Available
+0,2,1,2,144,249,Not Available
+1,1,1,2,158,445,Available
+1,2,1,0,231,312,Available
+1,0,0,2,203,369,Available
+0,1,1,0,294,365,Available
+0,0,1,1,256,213,Available
+1,2,0,2,256,402,Available
+0,2,0,1,197,487,Available
+0,2,0,1,255,388,Available
+0,0,2,2,178,354,Available
+0,0,0,0,223,254,Available
+0,0,0,2,271,381,Available
+0,0,1,1,103,409,Not Available
+1,2,0,1,189,274,Available
+1,2,2,2,203,476,Available
+0,1,0,0,236,332,Available
+1,1,2,0,218,258,Available
+1,0,0,1,232,381,Available
+1,2,0,1,155,263,Available
+1,2,0,0,195,459,Available
+0,2,0,2,277,392,Available
+1,1,2,1,174,342,Available
+1,1,2,0,242,303,Available
+0,2,1,1,131,413,Not Available
+0,2,2,2,127,441,Not Available
+1,2,0,0,121,408,Not Available
+1,1,1,1,116,292,Not Available
+1,2,1,2,158,341,Available
+1,2,1,1,189,311,Available
+1,0,0,2,298,258,Available
+1,0,2,2,205,242,Available
+0,1,0,0,284,406,Available
+1,2,1,2,125,467,Not Available
+1,2,0,1,124,495,Not Available
+0,0,0,2,237,317,Available
+0,1,2,2,144,219,Not Available
+0,0,2,0,182,421,Available
+0,0,1,2,110,365,Not Available
+1,0,0,2,280,330,Available
+1,0,0,1,299,355,Available
+1,2,2,0,203,383,Available
+1,2,0,0,167,289,Available
+1,0,0,0,194,293,Available
+1,1,0,2,255,212,Available
+0,1,2,0,164,492,Available
+1,1,1,2,148,429,Not Available
+0,1,1,2,274,491,Available
+0,0,0,1,151,225,Available
+1,2,1,1,201,274,Available
+0,1,2,1,281,498,Available
+1,0,2,1,287,349,Available
+0,1,1,1,156,347,Available
+1,1,1,2,146,207,Not Available
+0,0,0,2,258,228,Available
+1,2,1,0,273,495,Available
+1,2,0,2,125,408,Not Available
+1,0,0,2,213,327,Available
+1,2,2,1,104,315,Not Available
+1,0,2,2,183,343,Available
+0,0,2,1,151,434,Available
+0,0,2,0,204,206,Available
+0,2,1,0,153,244,Available
+1,0,2,2,260,438,Available
+0,1,1,0,277,354,Available
+1,2,2,2,265,380,Available
+1,2,1,0,254,414,Available
+0,2,0,1,114,287,Not Available
+0,2,1,1,160,455,Available
+1,1,1,1,221,272,Available
+0,2,2,1,120,378,Not Available
+1,2,1,2,145,411,Not Available
+1,0,0,0,296,492,Available
+1,2,0,2,233,433,Available
+1,1,2,1,137,438,Not Available
+1,1,0,2,161,422,Available
+0,1,1,0,185,318,Available
+0,1,0,2,289,463,Available
+1,2,2,0,177,406,Available
+1,2,1,2,145,294,Not Available
+0,1,2,0,240,421,Available
+0,1,1,0,102,475,Not Available
+1,2,0,1,105,430,Not Available
+0,1,2,0,192,318,Available
+1,0,2,1,107,467,Not Available
+0,1,1,1,271,472,Available
+1,1,2,1,207,263,Available
+0,0,1,2,260,497,Available
+1,0,1,2,174,210,Available
+0,2,1,2,176,297,Available
+0,2,1,2,149,270,Not Available
+1,0,0,0,110,257,Not Available
+0,0,1,0,194,489,Available
+1,2,2,2,255,450,Available
+0,1,0,0,169,475,Available
+1,0,2,0,268,249,Available
+0,2,0,1,115,415,Not Available
+1,1,1,1,167,251,Available
+0,0,0,1,198,470,Available
+1,1,0,1,147,283,Not Available
+0,2,2,0,283,492,Available
+1,0,2,2,163,325,Available
+1,1,1,0,286,495,Available
+1,0,0,0,189,271,Available
+0,1,0,0,289,495,Available
+1,2,0,1,175,435,Available
+0,2,1,1,238,255,Available
+1,0,1,1,200,309,Available
+0,1,1,2,188,391,Available
+1,0,1,0,117,292,Not Available
+0,0,1,2,118,255,Not Available
+0,1,2,1,154,259,Available
+1,1,0,2,201,337,Available
+0,1,0,0,217,238,Available
+0,2,0,0,253,227,Available
+1,0,0,1,233,248,Available
+0,0,0,1,103,324,Not Available
+0,2,0,2,207,212,Available
+0,1,0,1,214,235,Available
+1,2,0,1,128,300,Not Available
+0,2,2,0,158,481,Available
+1,2,0,1,224,285,Available
+0,0,2,1,197,203,Available
+0,2,1,0,116,422,Not Available
+0,0,0,0,206,365,Available
+1,0,1,2,142,477,Not Available
+0,0,1,1,179,329,Available
+0,1,1,0,293,230,Available
+1,0,2,2,261,210,Available
+0,0,1,2,107,295,Not Available
+1,1,1,1,240,389,Available
+1,0,1,1,205,391,Available
+0,2,0,2,107,465,Not Available
+1,2,0,0,195,327,Available
+0,0,2,2,193,437,Available
+1,1,2,1,164,311,Available
+1,2,0,0,270,344,Available
+0,1,2,0,138,264,Not Available
+1,1,0,2,180,446,Available
+1,2,1,1,286,422,Available
+1,1,1,2,183,305,Available
+1,2,2,2,187,380,Available
+1,1,0,2,185,383,Available
+0,2,0,0,192,425,Available
+1,0,2,0,185,464,Available
+0,2,0,1,143,477,Not Available
+1,2,1,1,236,288,Available
+0,2,2,2,264,375,Available
+0,2,2,2,173,217,Available
+1,1,0,2,135,305,Not Available
+1,0,2,1,200,470,Available
+1,2,0,0,255,366,Available
+0,1,0,0,269,212,Available
+1,0,0,2,270,231,Available
+0,0,0,2,269,239,Available
+0,0,0,2,203,347,Available
+0,0,2,2,165,417,Available
+1,2,1,1,154,418,Available
+1,2,1,0,299,281,Available
+0,1,2,2,275,407,Available
+0,1,2,1,190,400,Available
+1,1,1,2,121,237,Not Available
+0,0,1,2,200,410,Available
+1,0,1,0,254,448,Available
+0,2,1,2,220,426,Available
+1,0,1,0,192,247,Available
+0,0,0,0,294,217,Available
+1,0,2,0,207,494,Available
+0,1,0,1,240,395,Available
+1,1,1,1,272,386,Available
+1,2,1,0,109,423,Not Available
+0,0,1,2,108,428,Not Available
+0,0,0,0,281,276,Available
+1,2,0,2,254,387,Available
+0,0,1,0,133,469,Not Available
+1,0,0,2,228,294,Available
+0,1,0,1,259,331,Available
+1,2,1,2,188,238,Available
+1,2,0,0,192,271,Available
+1,2,2,1,170,480,Available
+1,2,2,2,166,359,Available
+1,1,2,2,247,386,Available
+1,1,2,2,216,390,Available
+0,0,1,2,193,319,Available
+0,0,1,2,262,419,Available
+0,0,1,1,198,252,Available
+1,0,2,1,212,421,Available
+1,1,2,1,202,330,Available
+1,2,0,1,190,436,Available
+1,1,0,0,189,445,Available
+0,0,2,1,116,425,Not Available
+0,1,2,2,117,407,Not Available
+1,2,2,2,272,295,Available
+0,2,2,1,215,399,Available
+0,1,0,2,192,446,Available
+1,1,2,1,280,271,Available
+0,1,0,2,190,384,Available
+1,0,2,0,181,205,Available
+0,1,2,0,167,405,Available
+1,1,2,1,292,231,Available
+1,1,0,1,213,298,Available
+1,2,0,1,100,455,Not Available
+1,2,1,2,157,386,Available
+0,0,2,1,253,275,Available
+1,0,1,0,208,376,Available
+1,2,1,2,247,486,Available
+1,2,0,1,215,454,Available
+0,2,0,2,186,389,Available
+1,1,1,2,109,326,Not Available
+0,1,2,1,158,486,Available
+1,2,0,2,140,453,Not Available
+0,1,2,0,204,412,Available
+0,1,2,0,232,449,Available
+1,0,1,2,221,283,Available
+0,2,1,1,292,212,Available
+1,2,1,2,244,244,Available
+1,1,1,0,121,326,Not Available
+1,2,0,2,197,313,Available
+0,0,0,2,268,475,Available
+0,0,1,0,167,404,Available
+1,0,0,2,296,472,Available
+1,2,1,2,238,257,Available
+0,2,2,1,155,418,Available
+1,2,2,1,278,308,Available
+1,2,2,0,248,478,Available
+1,2,1,0,198,373,Available
+0,0,2,0,175,463,Available
+0,1,0,1,125,310,Not Available
+0,0,2,0,214,386,Available
+1,2,2,0,246,468,Available
+1,0,2,0,208,428,Available
+1,2,0,1,287,355,Available
+0,2,1,2,298,388,Available
+1,0,0,0,146,471,Not Available
+1,2,1,2,170,201,Available
+1,1,1,0,253,445,Available
+1,2,2,2,139,409,Not Available
+0,1,1,1,232,485,Available
+0,1,0,1,248,212,Available
+1,2,0,0,231,295,Available
+0,0,1,2,122,420,Not Available
+0,1,2,1,205,437,Available
+1,0,2,0,183,293,Available
+1,1,0,0,242,468,Available
+0,2,2,1,215,370,Available
+1,2,1,1,208,293,Available
+0,1,1,0,235,348,Available
+1,2,0,2,140,311,Not Available
+0,1,1,2,211,254,Available
+1,2,0,2,246,315,Available
+0,0,1,0,211,342,Available
+0,2,0,1,202,400,Available
+0,0,2,0,145,379,Not Available
+1,2,1,1,255,401,Available
+0,0,1,2,167,252,Available
+0,2,0,2,221,379,Available
+1,0,0,1,114,336,Not Available
+1,1,1,1,264,381,Available
+0,1,0,0,228,200,Available
+0,0,1,2,294,243,Available
+1,2,2,0,210,426,Available
+1,0,0,0,123,297,Not Available
+1,2,1,0,126,407,Not Available
+1,1,2,2,139,464,Not Available
+1,2,2,0,290,487,Available
+0,1,1,0,288,470,Available
+1,2,0,0,263,339,Available
+0,2,1,0,123,436,Not Available
+0,2,2,0,123,271,Not Available
+0,0,1,0,103,354,Not Available
+1,0,0,2,166,389,Available
+0,1,2,0,133,467,Not Available
+0,1,1,1,284,306,Available
+1,0,0,0,276,431,Available
+0,1,2,0,280,241,Available
+0,0,0,2,215,389,Available
+1,2,2,2,122,338,Not Available
+0,1,1,1,208,302,Available
+0,1,0,1,168,370,Available
+0,0,2,2,194,472,Available
+1,1,0,2,280,420,Available
+1,1,0,0,161,412,Available
+1,2,1,2,268,255,Available
+0,1,0,1,156,301,Available
+0,2,2,0,287,391,Available
+1,0,2,1,153,399,Available
+0,1,2,0,169,432,Available
+0,2,2,2,200,426,Available
+1,0,1,1,156,338,Available
+1,1,0,0,237,348,Available
+0,0,1,0,267,314,Available
+0,1,0,2,234,262,Available
+0,0,0,2,202,303,Available
+1,0,0,2,265,355,Available
+1,2,1,1,184,472,Available
+1,0,0,0,160,205,Available
+1,1,1,2,102,346,Not Available
+0,1,2,1,227,383,Available
+1,2,2,1,278,227,Available
+1,1,0,1,185,237,Available
+1,1,1,2,146,318,Not Available
+1,1,2,2,295,492,Available
+1,0,1,0,175,443,Available
+0,0,1,0,137,267,Not Available
+0,1,0,2,263,413,Available
+1,2,2,1,268,417,Available
+0,0,0,1,296,376,Available
+1,2,0,1,240,498,Available
+1,1,2,0,186,363,Available
+0,1,2,1,157,257,Available
+0,0,1,0,149,468,Not Available
+1,1,2,0,129,257,Not Available
+1,0,1,1,289,487,Available
+1,1,1,1,200,304,Available
+0,1,1,2,124,427,Not Available
+1,0,2,2,211,446,Available
+1,0,0,1,254,387,Available
+1,0,1,0,278,282,Available
+0,1,0,0,284,385,Available
+1,1,0,0,225,451,Available
+1,2,2,0,222,437,Available
+0,0,0,0,146,383,Not Available
+1,1,0,2,217,483,Available
+1,1,2,1,138,409,Not Available
+0,0,1,2,115,495,Not Available
+1,2,0,0,121,296,Not Available
+0,0,2,0,153,407,Available
+0,2,0,0,248,336,Available
+1,1,0,0,299,383,Available
+1,2,1,1,115,275,Not Available
+1,1,0,0,158,486,Available
+1,0,2,1,130,341,Not Available
+0,0,0,0,269,436,Available
+1,0,1,1,131,224,Not Available
+0,2,1,2,286,489,Available
+1,1,2,0,261,266,Available
+1,0,1,1,108,449,Not Available
+1,0,0,2,238,317,Available
+0,1,1,0,109,272,Not Available
+1,0,2,0,116,481,Not Available
+1,1,1,0,167,209,Available
+1,1,1,1,147,410,Not Available
+1,1,1,1,279,351,Available
+0,1,2,2,210,204,Available
+1,1,1,1,252,394,Available
+0,2,1,1,222,482,Available
+0,0,0,0,248,312,Available
+0,2,2,0,200,470,Available
+0,0,1,0,201,362,Available
+0,2,2,0,164,304,Available
+0,1,1,0,290,380,Available
+1,0,1,0,150,243,Not Available
+0,0,1,0,135,481,Not Available
+0,2,0,2,180,374,Available
+0,2,0,2,226,361,Available
+1,0,0,2,187,339,Available
+1,2,2,2,293,331,Available
+0,2,2,0,203,286,Available
+1,2,0,2,114,375,Not Available
+0,1,2,0,195,382,Available
+0,1,1,2,266,328,Available
+1,2,1,1,222,445,Available
+0,2,1,2,297,288,Available
+1,1,0,2,100,265,Not Available
+1,1,2,0,250,357,Available
+0,0,0,2,221,348,Available
+0,0,2,1,266,315,Available
+1,1,1,0,225,413,Available
+0,2,0,0,156,493,Available
+0,2,2,2,180,452,Available
+0,2,2,0,261,342,Available
+1,2,1,0,268,449,Available
+1,0,0,0,172,224,Available
+0,1,0,0,240,476,Available
+1,2,0,0,169,269,Available
+1,0,1,0,105,312,Not Available
+1,2,0,1,183,311,Available
+1,1,1,2,151,290,Available
+1,0,1,1,102,217,Not Available
+0,1,1,0,180,348,Available
+0,1,2,0,162,426,Available
+0,0,0,2,148,413,Not Available
+1,0,0,1,175,350,Available
+1,0,1,2,211,391,Available
+0,0,1,1,274,239,Available
+1,0,0,0,208,441,Available
+0,0,1,2,282,337,Available
+0,0,0,2,291,379,Available
+0,2,2,0,164,399,Available
+1,1,1,2,180,402,Available
+1,0,0,1,294,260,Available
+0,2,1,1,114,391,Not Available
+0,2,0,1,199,204,Available
+0,2,0,1,131,436,Not Available
+0,1,1,0,195,380,Available
+1,0,2,2,227,236,Available
+1,2,0,1,295,255,Available
+0,1,0,0,245,436,Available
+0,1,0,2,212,396,Available
+1,1,2,2,182,272,Available
+1,2,2,0,142,258,Not Available
+0,0,1,0,215,439,Available
+0,2,2,1,262,201,Available
+0,2,1,2,177,387,Available
+1,0,1,2,157,229,Available
+1,0,2,0,132,466,Not Available
+1,0,1,2,113,307,Not Available
+0,1,2,1,261,289,Available
+0,0,1,2,288,404,Available
+1,2,2,0,231,419,Available
+1,0,2,0,158,293,Available
+0,2,1,1,256,302,Available
+1,1,0,1,182,422,Available
+1,2,1,2,233,385,Available
+0,2,2,2,220,383,Available
+1,0,0,0,276,361,Available
+0,0,1,1,267,446,Available
+0,2,1,1,182,230,Available
+0,0,1,1,292,251,Available
+0,1,0,2,296,275,Available
+0,1,2,1,126,477,Not Available
+0,0,1,0,179,239,Available
+0,1,1,0,233,300,Available
+1,0,1,2,112,310,Not Available
+0,2,1,2,163,448,Available
+0,2,1,1,289,390,Available
+1,1,2,2,246,381,Available
+1,0,2,0,179,408,Available
+1,0,1,1,222,221,Available
+0,1,0,0,142,365,Not Available
+1,2,2,1,188,298,Available
+0,1,0,2,247,407,Available
+0,2,2,1,194,207,Available
+0,0,1,1,295,389,Available
+0,2,2,0,271,374,Available
+1,1,1,0,250,472,Available
+1,0,2,1,101,216,Not Available
+0,1,1,2,219,289,Available
+0,1,1,2,121,340,Not Available
+0,2,1,0,214,344,Available
+1,1,1,2,156,365,Available
+0,2,0,0,171,277,Available
+0,0,1,2,106,461,Not Available
+1,2,0,1,283,362,Available
+1,0,0,0,218,213,Available
+0,2,1,0,294,438,Available
+1,1,0,1,213,271,Available
+1,2,2,0,115,342,Not Available
+0,2,1,2,182,482,Available
+1,0,0,2,278,468,Available
+0,1,1,0,171,440,Available
+1,2,1,2,223,444,Available
+0,1,1,0,212,362,Available
+0,2,0,1,111,259,Not Available
+0,2,2,0,225,205,Available
+1,1,2,1,152,396,Available
+0,2,0,2,174,257,Available
+1,1,1,1,232,416,Available
+0,2,0,2,126,225,Not Available
+0,0,0,0,239,204,Available
+1,1,0,2,244,219,Available
+0,2,1,0,233,397,Available
+0,2,0,0,196,258,Available
+1,0,1,1,104,441,Not Available
+0,1,0,1,156,345,Available
+0,2,2,1,255,472,Available
+0,0,0,1,177,448,Available
+0,2,0,2,168,213,Available
+1,1,2,2,217,212,Available
+1,2,1,2,219,243,Available
+0,2,1,0,158,218,Available
+1,2,0,2,132,262,Not Available
+0,2,2,2,161,438,Available
+1,0,1,2,149,299,Not Available
+0,0,0,1,211,362,Available
+0,1,2,2,118,321,Not Available
+0,0,1,0,296,243,Available
+0,0,1,1,222,344,Available
+0,1,2,0,293,249,Available
+0,0,2,2,146,264,Not Available
+1,0,2,1,266,487,Available
+0,1,2,0,295,363,Available
+1,1,0,2,132,340,Not Available
+0,1,2,0,240,327,Available
+1,2,1,0,183,438,Available
+1,2,1,0,281,495,Available
+1,1,0,2,234,386,Available
+0,1,1,2,178,407,Available
+0,1,1,0,113,419,Not Available
+1,2,2,1,246,389,Available
+0,2,1,1,227,483,Available
+1,0,0,2,153,436,Available
+0,0,2,2,247,393,Available
+1,1,2,2,128,486,Not Available
+1,2,0,2,123,458,Not Available
+0,2,2,2,181,445,Available
+1,2,2,1,162,335,Available
+0,1,0,2,204,479,Available
+1,0,2,0,156,470,Available
+1,1,0,0,235,370,Available
+0,0,0,1,161,358,Available
+0,0,1,0,256,400,Available
+0,1,1,1,116,244,Not Available
+1,0,2,1,165,463,Available
+0,0,2,0,105,270,Not Available
+1,2,0,2,157,302,Available
+1,0,2,0,168,324,Available
+0,1,0,0,255,485,Available
+0,1,0,1,161,429,Available
+1,0,2,0,268,345,Available
+1,2,0,1,296,396,Available
+0,2,1,2,181,420,Available
+0,0,2,2,268,259,Available
+0,0,1,2,276,297,Available
+0,1,2,0,276,370,Available
+0,0,0,1,170,372,Available
+1,2,2,2,230,350,Available
+1,0,1,1,109,321,Not Available
+1,1,0,1,197,307,Available
+1,1,2,2,188,203,Available
+0,1,2,2,134,292,Not Available
+0,1,2,1,101,205,Not Available
+0,1,1,2,223,487,Available
+1,0,1,1,123,305,Not Available
+1,0,2,1,173,345,Available
+0,0,0,2,265,470,Available
+0,0,0,0,121,295,Not Available
+1,1,1,2,253,428,Available
+1,2,0,0,270,401,Available
+0,0,1,1,282,411,Available
+0,2,2,1,138,205,Not Available
+1,0,1,0,256,311,Available
+0,0,1,1,119,305,Not Available
+0,2,2,0,140,338,Not Available
+0,1,0,0,281,498,Available
+1,0,1,1,247,295,Available
+1,0,1,0,207,496,Available
+1,0,2,2,246,413,Available
+1,2,0,2,183,490,Available
+1,1,1,1,210,221,Available
+1,2,2,1,165,392,Available
+1,2,1,0,257,349,Available
+0,1,2,0,152,446,Available
+0,2,0,0,133,466,Not Available
+0,1,0,0,249,450,Available
+0,0,0,2,166,202,Available
+0,1,0,2,233,275,Available
+0,0,1,1,126,286,Not Available
+0,2,1,0,109,469,Not Available
+1,2,0,0,172,424,Available
+1,0,0,1,195,217,Available
+0,2,0,0,147,312,Not Available
+0,1,1,0,169,450,Available
+1,0,0,0,286,432,Available
+0,2,0,0,199,478,Available
+0,0,0,0,158,401,Available
+1,1,2,1,101,282,Not Available
+0,1,0,0,256,324,Available
+1,2,2,1,295,374,Available
+0,1,2,0,164,268,Available
+1,0,0,2,182,246,Available
+1,1,2,2,253,455,Available
+1,0,0,2,109,414,Not Available
+0,0,1,2,152,229,Available
+1,1,1,1,178,480,Available
+0,2,1,1,158,436,Available
+0,1,1,0,249,447,Available
+0,0,2,2,278,224,Available
+0,0,0,1,147,273,Not Available
+1,1,0,0,248,405,Available
+1,2,0,0,222,293,Available
+0,2,1,1,121,326,Not Available
+0,0,1,2,199,224,Available
+1,0,0,0,197,315,Available
+0,2,1,2,257,247,Available
+1,1,0,2,124,425,Not Available
+0,0,0,2,127,465,Not Available
+0,0,0,0,292,298,Available
+1,2,0,2,212,210,Available
+0,1,0,0,144,284,Not Available
+1,2,0,2,167,413,Available
+0,1,0,0,106,372,Not Available
+0,1,1,2,148,408,Not Available
+0,1,0,1,236,263,Available
+1,0,0,2,263,457,Available
+0,2,1,2,182,320,Available
+0,2,1,0,228,497,Available
+0,1,1,0,237,253,Available
+0,0,0,2,263,471,Available
+1,0,2,1,172,440,Available
+1,2,2,1,145,442,Not Available
+0,0,1,0,205,217,Available
+1,0,2,1,259,386,Available
+0,1,1,2,131,343,Not Available
+0,0,0,0,105,461,Not Available
+0,1,2,2,275,438,Available
+1,2,0,0,265,497,Available
+1,0,2,0,244,275,Available
+1,2,0,0,173,387,Available
+1,2,2,0,213,445,Available
+1,0,0,1,126,329,Not Available
+1,0,0,2,153,482,Available
+1,2,2,2,277,278,Available
+1,0,0,2,262,271,Available
+1,1,0,0,184,462,Available
+0,1,0,1,226,390,Available
+1,0,2,2,252,262,Available
+1,2,2,1,255,211,Available
+1,0,0,0,210,340,Available
+1,0,0,2,114,453,Not Available
+1,2,2,1,231,242,Available
+1,2,2,0,192,216,Available
+1,1,0,1,222,262,Available
+1,2,0,2,172,452,Available
+1,1,0,2,254,491,Available
+1,2,1,0,253,207,Available
+1,0,2,0,246,289,Available
+0,1,1,0,191,407,Available
+0,1,2,1,116,491,Not Available
+1,1,2,1,142,483,Not Available
+1,0,2,1,220,317,Available
+0,0,2,0,140,374,Not Available

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction</title>
+</head>
+<body>
+    <div class="login">
+        <h1> Medicine Prediction Model</h1>
+        <form action="{{url_for('predict')}}" method="post">
+            <input type="text" name="medicine_available" placeholder="medicine_available" required="required"/> <br>
+            <input type="text" name="medicines_stock" placeholder="medicines_stock" required="required"/> <br>
+            <input type="text" name="location" placeholder="location" required="required"/> <br>
+            <input type="text" name="hospital_name" placeholder="hospital_name" required="required"/> <br>
+            <input type="text" name="medicine_sold" placeholder="medicine_sold" required="required"/> <br>
+            <input type="text" name="medicine_supplied" placeholder="medicine_supplied" required="required"/> <br>
+
+            <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button> <br>
+        </form>
+    </div>
+    
+    <br>
+    <br>
+    <h1 id="pred1">
+        {{ prediction_text }}
+    </h1>
+</body>
+</html>
